@@ -11,19 +11,19 @@ A static website hosted through a public AWS S3 bucket, and distributed using AW
 ## Preview Screenshots
 
 ### 1. Website files in public S3 Bucket
-![img](submission_screenshots\1. Website files in public S3 Bucket.png)
+![img](./submission_screenshots\1. Website files in public S3 Bucket.png)
 
 ### 2. Configure bucket for static web hosting
-![img](submission_screenshots\2. Configure bucket for static web hosting.png)
+![img](./submission_screenshots\2. Configure bucket for static web hosting.png)
 
 ### 3. Bucket configured as static web host endpoint
-![img](submission_screenshots\3. Bucket configured as static web host endpoint.png)
+![img](./submission_screenshots\3. Bucket configured as static web host endpoint.png)
 
 ### 4. IAM policy to make bucket contents publicly accessible
-![img](submission_screenshots\4. IAM policy to make bucket contents publicly accessible.png)
+![img](./submission_screenshots\4. IAM policy to make bucket contents publicly accessible.png)
 
 ### 5. CloudFront configured and deployed
-![img](submission_screenshots\5. CloudFront configured and deployed.png)
+![img](./submission_screenshots\5. CloudFront configured and deployed.png)
 
 ### 6. Customized web running
-![img](submission_screenshots\6. Customized web running.png)
+![img](./submission_screenshots\6. Customized web running.png)
