@@ -11,19 +11,19 @@ A static website hosted through a public AWS S3 bucket, and distributed using AW
 ## Preview Screenshots
 
 ### 1. Website files in public S3 Bucket
-![img](https://github.com/Zeyad-Alo/Static-Travel-Blog/blob/main/submission_screenshots/1.%20Website%20files%20in%20public%20S3%20Bucket.png)
+![img](./submission_screenshots/files_in_s3.png)
 
 ### 2. Configure bucket for static web hosting
-![img](./hosting.png)
+![img](./submission_screenshots/configure_as_static_website.png)
 
 ### 3. Bucket configured as static web host endpoint
-![img](./submission_screenshots/endpoint.png)
+![img](./submission_screenshots/static_configured.png)
 
 ### 4. IAM policy to make bucket contents publicly accessible
-![img](./submission_screenshots\4. IAM policy to make bucket contents publicly accessible.png)
+![img](./submission_screenshots/IAM_policy.png)
 
 ### 5. CloudFront configured and deployed
-![img](./submission_screenshots\5. CloudFront configured and deployed.png)
+![img](./submission_screenshots/cloudfront_configured.png)
 
 ### 6. Customized web running
-![img](./submission_screenshots\6. Customized web running.png)
+![img](./submission_screenshots/customized_web_running.png)
