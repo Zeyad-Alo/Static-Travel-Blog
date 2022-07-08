@@ -17,7 +17,7 @@ A static website hosted through a public AWS S3 bucket, and distributed using AW
 ![img](./hosting.png)
 
 ### 3. Bucket configured as static web host endpoint
-![img](submission_screenshots\endpoint.png)
+![img](./submission_screenshots\endpoint.png)
 
 ### 4. IAM policy to make bucket contents publicly accessible
 ![img](./submission_screenshots\4. IAM policy to make bucket contents publicly accessible.png)
