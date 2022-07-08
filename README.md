@@ -11,7 +11,7 @@ A static website hosted through a public AWS S3 bucket, and distributed using AW
 ## Preview Screenshots
 
 ### 1. Website files in public S3 Bucket
-![img](submission_screenshots/1. Website files in public S3 Bucket.png)
+![img](https://github.com/Zeyad-Alo/Static-Travel-Blog/blob/main/submission_screenshots/1.%20Website%20files%20in%20public%20S3%20Bucket.png)
 
 ### 2. Configure bucket for static web hosting
 ![img](./submission_screenshots\2. Configure bucket for static web hosting.png)
