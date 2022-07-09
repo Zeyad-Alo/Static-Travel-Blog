@@ -3,9 +3,9 @@
 A static website hosted through a public AWS S3 bucket, and distributed using AWS's CloudFront.
 
 ## Website Access Points
-- [x] ### 🔗 <a href="https://d2blkfjd6lqtlz.cloudfront.net/">CloudFront</a>
-- [x] ### 🔗 <a href="http://my-464314337741-bucket.s3-website.us-east-1.amazonaws.com/">Website Endpoint</a>
-- [x] ### 🔗 <a href="https://my-464314337741-bucket.s3.amazonaws.com/index.html">Bucket-object URL</a>
+1) ### 🔗 <a href="https://d2blkfjd6lqtlz.cloudfront.net/">CloudFront</a>
+2) ### 🔗 <a href="http://my-464314337741-bucket.s3-website.us-east-1.amazonaws.com/">Website Endpoint</a>
+3) ### 🔗 <a href="https://my-464314337741-bucket.s3.amazonaws.com/index.html">Bucket-object URL</a>
 
 
 ## Preview Screenshots
